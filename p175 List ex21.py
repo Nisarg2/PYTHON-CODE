@@ -1,0 +1,11 @@
+list=[1,5,7,3,2,4,6]
+print(max(list))
+print(min(list))
+print(sum(list))
+print(len(list))
+list.append(35)
+print(list)
+list.pop(2)
+print(list)
+list.reverse()
+print(list)
