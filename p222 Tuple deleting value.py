@@ -1,0 +1,5 @@
+t1=(1,2,3,4,5)
+list=list(t1)
+list.remove(2)
+t1=tuple(list)
+print(t1)

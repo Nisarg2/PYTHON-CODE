@@ -1,0 +1,5 @@
+t1=(11,9,30,32,12,99,21)
+list1=list(t1)
+list1.append(1000)
+t1=tuple(list1)
+print(t1)

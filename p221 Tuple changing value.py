@@ -1,0 +1,5 @@
+num = (1,2,3)
+list1=list(num)
+list1.insert(1,20)
+num=tuple(list1)
+print(list1)
